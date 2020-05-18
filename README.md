@@ -1,6 +1,6 @@
 # Tetris Clone for the RG350
 
-[![Tetris clone ](https://img.youtube.com/vi/YJ5n5TuaGzM/0.jpg)](https://www.youtube.com/watch?v=YJ5n5TuaGzM "Tetris Clone")
+[![Tetris clone ](https://github.com/Samuel85/tetris_rg350/blob/master/build/images/intro.bmp)](https://www.youtube.com/watch?v=YJ5n5TuaGzM "Tetris Clone")
 
 ## Built With
 * SDL2
