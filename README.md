@@ -7,7 +7,7 @@
 * SDL2_Mixer
 * SDL2_ttf
 
-## To compile
+## Instructions To Compile
 ```
 cd build
 cmake ..
