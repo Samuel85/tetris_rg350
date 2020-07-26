@@ -11,12 +11,13 @@ Required:
 * SDL2_Mixer
 * SDL2_ttf
 
-## Instructions To Compile
+## Instructions to compile
 ```
 cd build
 cmake ..
 make 
 ```
-
+## RG350
+To generate the opk file run the script make_opk.sh
 * Opk file is located inside of the build directory.
 
