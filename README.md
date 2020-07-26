@@ -3,7 +3,7 @@
 [![Tetris clone ](https://github.com/Samuel85/tetris_rg350/blob/master/build/images/intro.bmp)](https://www.youtube.com/watch?v=YJ5n5TuaGzM "Youtube video")
 
 ## Info
-C++ Implementation of Tetris for Linux and the RG350 console.
+C++ Implementation of Tetris for Linux and the RG350 handheld.
 
 ## Libraries
 Required:
